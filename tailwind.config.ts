@@ -61,6 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Clean Machine custom colors
+				cleaner: {
+					purple: '#8B5CF6',
+					lightPurple: '#E5DEFF',
+					blue: '#0EA5E9',
+					lightBlue: '#D3E4FD',
+					gray: '#8E9196',
+					success: '#10B981',
+					warning: '#F97316',
+					danger: '#EF4444'
 				}
 			},
 			borderRadius: {
